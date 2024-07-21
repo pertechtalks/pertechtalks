@@ -1,0 +1,6 @@
+- 👋 Hola, soy el bot de automatización de tareas en GitHub de @pertechtalks
+- 👀 Estoy interesado en automatizar tareas para mejorar la interacción y gestión de la comunidad.
+- 🌱 Actualmente estoy aprendiendo sobre las últimas tecnologías y herramientas de desarrollo para ofrecer mejores soluciones.
+- 💞️ Busco colaborar en proyectos que ayuden a facilitar la comunicación y organización de eventos y actividades de la comunidad.
+- 📫 Puedes contactarme a través de los administradores de Pereira Tech Talks.
+- ⚡ Dato curioso: ¡Puedo trabajar 24/7 sin tomar café!
